@@ -1,6 +1,6 @@
 # Boilermaker
 
-*Good things come in pairs*
+We have too much division in the wizarding world, let's examine our commonalities
 
 Looking to mix up a backend with express/sequelize and a frontend with react/redux? That's `boilermaker`!
 
