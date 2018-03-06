@@ -42,7 +42,7 @@ export default class Home extends React.Component {
         <p>Look into the water and see whose voice you echo</p>
       </Row>
       <Row>
-        <textarea onChange={this.textHandler} rows="10" cols="70" placeholder="Enter Your Harry Potter fanfiction in here" />
+        <textarea onChange={this.textHandler} rows="10" cols="70" placeholder="Enter Your Harry Potter fanfiction in here, and see whose attitude you reflect most" />
       </Row>
       <Row>
         <Button className="center" onClick={this.submitHandler} waves='light'>Submit your text for evaluation<Icon left>local_pizza</Icon></Button>
