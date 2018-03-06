@@ -9,8 +9,8 @@ export default function Navibar() {
   return (
     <div>
       <Navbar brand='PenSieve' right>
-        <NavItem href='get-started.html'>Getting started</NavItem>
-        <NavItem href='components.html'>Components</NavItem>
+        <NavItem href='get-started.html'>About</NavItem>
+        <NavItem href='components.html'>Contact</NavItem>
       </Navbar>
     </div>
   )

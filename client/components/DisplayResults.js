@@ -8,7 +8,6 @@ class DisplayResults extends React.Component {
   }
 
   render(){
-    console.log('maybe?', this.props.result)
     return (
       <div>
         {this.props.result}

@@ -1,0 +1,5 @@
+All encyclopedic content on Wikipedia must be written from a neutral point of view (NPOV), which means representing fairly, proportionately, and, as far as possible, without editorial bias, all of the significant views that have been published by reliable sources on a topic.
+
+NPOV is a fundamental principle of Wikipedia and of other Wikimedia projects. It is also one of Wikipedia's three core content policies; the other two are "Verifiability" and "No original research". These policies jointly determine the type and quality of material that is acceptable in Wikipedia articles, and, because they work in harmony, they should not be interpreted in isolation from one another. Editors are strongly encouraged to familiarize themselves with all three.
+
+This policy is non-negotiable, and the principles upon which it is based cannot be superseded by other policies or guidelines, nor by editor consensus.

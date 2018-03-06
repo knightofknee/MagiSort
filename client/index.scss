@@ -45,6 +45,17 @@ p {
   text-align: center;
   font-family: Verdana;
 }
+#result {
+  padding-left: 75px;
+  padding-right: 75px;
+}
 .waves-effect {
   margin-left: 280px;
+  background-color: #80deea;
+  :hover {
+    background-color: #4dd0e1
+  }
+}
+.waves-effect:hover {
+  background-color: #4dd0e1
 }

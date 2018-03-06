@@ -9,8 +9,8 @@ let firstBook = 'weoooeoeoeo pls woeoeow'//require('../public/SorcerersStone')
 //     url: 'https://api.rosette.com/rest/v1/ping',
 //     headers: {'X-RosetteAPI-Key': '127fdcae96f5da5024c5742b5754f71c'}
 // })
-// .then(res => console.log('first!@#', res))
-// .catch(error => console.log(error))
+// .then(res => cons.log('first!@#', res))
+// .catch(error => cons.log(error))
 
 axios({
     method: 'post',
@@ -54,9 +54,9 @@ axios({
 
 // api.rosette(endpoint, function(err, res){
 //     if(err){
-//         console.log(err);
+//         cons.log(err);
 //     } else {
-//         console.log(JSON.stringify(res, null, 2));
+//         cons.log(JSON.stringify(res, null, 2));
 //     }
 // });
 

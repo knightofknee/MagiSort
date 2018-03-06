@@ -30,10 +30,10 @@ for (let i = 0; i < characterQuotes.length; i++) {
 }
 
 // for (let key in quoteObj) {
-//   console.log(key, quoteObj[key].length)
+//   cons.log(key, quoteObj[key].length)
 // }
 
-//console.log('parser:dddd', quoteObj)
+//cons.log('parser:dddd', quoteObj)
 
 // for (let i = 0; i < importText.length; i++) {
 
